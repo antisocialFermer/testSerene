@@ -1,0 +1,10 @@
+﻿export const AdministrationNS: "testSerene.Administration" = "testSerene.Administration";
+export const nsAdministration: "testSerene.Administration." = "testSerene.Administration.";
+export const MembershipNS: "testSerene.Membership" = "testSerene.Membership";
+export const nsMembership: "testSerene.Membership." = "testSerene.Membership.";
+export const ModulesBackOfficeNS: "testSerene.Modules.BackOffice" = "testSerene.Modules.BackOffice";
+export const nsModulesBackOffice: "testSerene.Modules.BackOffice." = "testSerene.Modules.BackOffice.";
+export const ModulesBackOfficeTariffsNS: "testSerene.Modules.BackOffice.Tariffs" = "testSerene.Modules.BackOffice.Tariffs";
+export const nsModulesBackOfficeTariffs: "testSerene.Modules.BackOffice.Tariffs." = "testSerene.Modules.BackOffice.Tariffs.";
+export const ModulesBackOfficeTradeOperationsNS: "testSerene.Modules.BackOffice.TradeOperations" = "testSerene.Modules.BackOffice.TradeOperations";
+export const nsModulesBackOfficeTradeOperations: "testSerene.Modules.BackOffice.TradeOperations." = "testSerene.Modules.BackOffice.TradeOperations.";
